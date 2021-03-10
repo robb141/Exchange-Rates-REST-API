@@ -1,0 +1,8 @@
+/.idea/
+/.git/
+/venv/
+/.mypy_cache/
+/cron_tasks/__pycache__/
+
+exchange_id.txt
+rates.json
