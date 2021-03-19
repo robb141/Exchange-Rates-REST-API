@@ -1,3 +1,1 @@
-# Kiwi
-
-REST web service for currency conversion
+REST API download exchange rates
