@@ -1,0 +1,4 @@
+CZK
+EUR
+PLN
+USD
