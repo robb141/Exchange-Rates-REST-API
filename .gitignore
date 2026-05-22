@@ -1,0 +1,14 @@
+/.idea/
+/.git/
+/.vscode/
+/venv/
+/.mypy_cache/
+/cron_tasks/__pycache__/
+/__pycache__/
+
+exchange_id.txt
+rates.json
+
+celerybeat-schedule
+celerybeat.pid
+*.log
